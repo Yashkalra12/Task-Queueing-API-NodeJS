@@ -81,9 +81,7 @@ Task-Queueing-API-NodeJS/
 - Add real-time monitoring for queued and completed tasks.  
 - Support dynamic rate limit configurations per user.  
 
-## Contributing  
 
-Contributions are welcome! Please submit a pull request with detailed information about your changes.  
 
 ## License  
 
